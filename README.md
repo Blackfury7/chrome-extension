@@ -1,7 +1,7 @@
 # Chrome Extensions
 Chrome Extensions
 
-1. DadJokes: This extension fetch the new joke every time we click on it.
+1. DadJokes-extension: This extension fetch the new joke every time we click on it.
 
 
 
