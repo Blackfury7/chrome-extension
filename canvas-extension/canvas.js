@@ -5,7 +5,13 @@ window.addEventListener('load', ()=> {
     //Resizing
     canvas.height = window.innerHeight;
     canvas.width = window.innerWidth;
+    
+    ctx.strokeStyle = "red";
+    ctx.lineWidth = 5;
+    ctx.strokeRect(100, 100, 200, 500);
+    ctx.strokeStyle = "blue";
+    ctx.lineWidth = 2;
+    ctx.strokeRect(200, 200, 200, 500);
 
-    ctx.fillRect(50, 50, 200, 200);
 
 });
